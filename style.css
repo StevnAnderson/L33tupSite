@@ -1,0 +1,15 @@
+.headerNav{
+
+}
+
+.sidebarWrap{
+  display: flex;
+  justify-content:space-around;
+}
+
+.innerWrap{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: aqua;
+}
